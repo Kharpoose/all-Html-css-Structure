@@ -1,0 +1,133 @@
+
+.new-style {
+    color: orange;
+    text-align: center;
+    width: 500px;
+    font-size: 12px;
+    font-family: Verdana;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.mac-style {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 4px;
+    width: 500px;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.super-style {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 7px;
+    width: 500px;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.prize-style {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    width: 500px;
+    font-family: verdana;
+    font-size: 11px;
+}
+
+.buy-class {
+    background-color: rgb(28, 82, 200);
+    text-align: center;
+    color: white;
+    width: 40px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    padding: 4px;
+    margin-left: 225px;
+    font-family: verdana;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 20px;
+}
+
+.buy-class:hover {
+    background-color: blue;
+}
+
+.prize2-style {
+    font-size: 16px;
+    font-family: Verdana;
+    margin-bottom: 5px;
+}
+
+.usd-style {
+    color: rgb(79, 79, 79);
+    font-size: 12px;
+}
+
+.number-style {
+    font-family: verdana;
+    margin-top: 0px;
+    color: green;
+    font-size: 8px;
+    margin-bottom: 6px;
+}
+
+.after-style {
+    margin-top: 0px;
+    font-family: verdana;
+    font-size: 9px;
+    color: rgb(79, 79, 79);
+    margin-bottom: 25px;
+}
+
+.after2-style {
+    color: red;
+}
+
+.free-style {
+    font-family: arial;
+    font-size: 16px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.freecode-style {
+    font-weight: lighter;
+    color: rgb(79, 79, 79);
+    font-size: 14px;
+}
+
+.freecode-style:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.web-style {
+    margin-top: 0px;
+    font-family: arial;
+    font-size: 16px;
+    width: 500px;
+    margin-bottom: 15px;
+}
+
+.here-style {
+    margin-top: 0px;
+    font-family: arial;
+    font-size: 16px;
+    width: 500px;
+    margin-bottom: 50px;
+}
+
+.chp-style {
+    color: rgb(79, 79, 223);
+}
+
+.chp-style:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
